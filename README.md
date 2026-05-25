@@ -12,23 +12,23 @@
       font-family: Arial, sans-serif;
     }
 
-    body {
-      overflow: hidden;
-      background: #000;
-      color: white;
-    }
+   body {
+  overflow: hidden;
+  background: #000;
+  color: white;
+}
 
-    .background {
-      position: fixed;
-      width: 100%;
-      height: 100%;
-      background-image: url("./omerta_loading_screen/background.png");
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-      filter: blur(4px) brightness(0.5);
-      transform: scale(1.1);
-    }
+.background {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-image: url("./omerta_loading_screen/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(4px) brightness(0.5);
+  transform: scale(1.1);
+}
 
     .overlay {
       position: absolute;
