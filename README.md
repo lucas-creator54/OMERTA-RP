@@ -22,7 +22,7 @@
   position: fixed;
   width: 100%;
   height: 100%;
-  background-image: url("./omerta_loading_screen/background.png");
+  background-image: url("[./omerta_loading_screen/background.png](https://imgur.com/a/WkE5ya5)");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
