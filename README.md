@@ -22,7 +22,10 @@
       position: fixed;
       width: 100%;
       height: 100%;
-      background: url('https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1920') center center/cover no-repeat;
+      background-image: url("./omerta_loading_screen/background.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
       filter: blur(4px) brightness(0.5);
       transform: scale(1.1);
     }
